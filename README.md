@@ -1,1 +1,2 @@
-This are some of the tasks I had in my Database course. I solved it by using mySQL and the XML language where necessary.
+# Database projects
+This are some projects and tasks from Unversity and from some projects I did to improve my SQL coding skills and my knowledge about relational databases. 
